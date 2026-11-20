@@ -28,7 +28,9 @@ Test the JSONPlaceholder public REST API using Postman. I wrote 8 requests cover
 
 ### Collection run results
 
-![Collection run](screenshots/01-collection-run.png)
+![Collection run, part 1](screenshots/01-collection-run-part1.png)
+
+![Collection run, part 2](screenshots/01-collection-run-part2.png)
 
 ### Test script example
 
